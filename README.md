@@ -5,7 +5,7 @@ Projeto que simula operações logísticas. Nele é possível cadastrar/receber 
 ## Tecnologias Utilizadas
 
 * Intellij
-* Java 11
+* Java 11 (Spring Boot)
 * PostgreSQL 
 * Docker
 * Angular Material
